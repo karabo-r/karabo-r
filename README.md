@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @karabo-r
+- 👋 Hi, I’m @karabo-r 
 - 👀 I’m interested in almost anything challenging 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development (full-stack)
 - 💞️ I’m looking to collaborate on Web Applications
 - 📫 How to reach me karaborabothata0@gmail.com
 
