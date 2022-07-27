@@ -2,7 +2,7 @@
 
 ![](/assets/giphy.gif)
 
-My name is __Karabo__ (kah-ra-bow) and I'm a fullstack developer.
+## My name is __Karabo__ (kah-ra-bow) and I'm a fullstack developer.
 ```
 developer: {
     First name: Karabo 
