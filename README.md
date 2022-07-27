@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @karabo-r 
-- 👀 I’m interested in almost anything challenging 
-- 🌱 I’m currently learning Web Development (full-stack)
-- 💞️ I’m looking to collaborate on Web Applications
-- 📫 How to reach me karaborabothata0@gmail.com
+# I see you.
 
-<!---
-karabo-r/karabo-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/3oxRmmENQPekq4N02c" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-eyes-3oxRmmENQPekq4N02c">via GIPHY</a></p>
+
+
+My name is __Karabo__ (kah-ra-bow) and I'm a fullstack developer.
+```
+developer: {
+    First name: Karabo 
+    Last name: Rabothata
+    age: 20
+    techStack: [MERN]
+}
+```
+
+📫 How to reach me: karaborabothata0@gmail.com
+
+_README under construction_ :'( 
